@@ -23,10 +23,7 @@
 # print(e)
 # print(f)
 
-empty_dict={
-    1:"aaa",
-    2:"bbb",
-    3:"ddd",
-}
-print(empty_dict)
+lol = [['a','b'],['c','d'],['e','f']]
+print(lol)
 
+print(dict(lol))
